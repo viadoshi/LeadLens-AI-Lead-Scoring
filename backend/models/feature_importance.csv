@@ -1,0 +1,51 @@
+feature,importance
+budget_identified_Yes,1.084311
+budget_identified_No,0.986193
+demo_requested_No,0.844485
+demo_requested_Yes,0.819966
+job_role_Individual Contributor,0.648788
+lead_source_Referral,0.560802
+lead_source_Email,0.513224
+job_role_Founder / CEO,0.4924
+pricing_page_viewed_No,0.488433
+company_size_1-10,0.488097
+pricing_page_viewed_Yes,0.463914
+job_role_Executive,0.461153
+company_size_1001+,0.412481
+job_role_Team Lead,0.358697
+company_size_201-500,0.339043
+sales_contacted_No,0.288524
+email_clicks,0.284607
+sales_contacted_Yes,0.264005
+webinar_attended_No,0.264001
+company_size_51-200,0.252723
+webinar_attended_Yes,0.239482
+lead_source_LinkedIn,0.233715
+company_size_11-50,0.229233
+job_role_Other,0.222037
+lead_source_Webinar,0.213766
+website_visits,0.213619
+content_downloaded_No,0.197125
+company_size_501-1000,0.194009
+days_since_last_activity,0.1829
+job_role_Director,0.175841
+content_downloaded_Yes,0.172606
+campaign_Q4 Enterprise Inbound,0.125159
+budget_identified_Unknown,0.122638
+pages_viewed,0.101423
+job_role_Manager,0.07561
+campaign_Cloud Scale Outreach,0.065907
+campaign_Webinar AI Summit,0.059312
+lead_source_Website,0.05261
+industry_Healthcare,0.04889
+industry_Professional Services,0.046005
+lead_source_Google Ads,0.039436
+industry_E-commerce,0.033933
+industry_Education,0.030617
+industry_Software,0.023264
+email_opens,0.021576
+industry_Fintech,0.019806
+industry_Manufacturing,0.019029
+campaign_SaaS Growth SDR,0.018821
+industry_Logistics,0.008233
+campaign_Fintech Targeted Push,0.005758
